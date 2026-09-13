@@ -1,0 +1,8 @@
+pandas          → DataFrame creation, cleaning, analysis
+numpy           → Feature engineering / numerical operations
+requests        → USGS API requests
+sqlalchemy      → MySQL database connection and SQL execution
+pymysql         → MySQL driver used by SQLAlchemy
+python-dotenv   → Load database credentials from .env
+streamlit       → Interactive dashboard
+plotly          → Dashboard visualizations
