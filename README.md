@@ -2,7 +2,7 @@
 Earthquake data pipeline and analysis — USGS API → Python/Pandas → MySQL → SQL analysis → Streamlit dashboard, covering 5 years of global seismic activity.
 
 ## Overview
-I pulled earthquake records from the USGS API, cleaned and engineered features on top of them with Python/Pandas, loaded the result into MySQL, ran SQL analysis, and built a Streamlit dashboard to explore the findings.
+I pulled earthquake records from the USGS API, cleaned and engineered features on top of them with Python/Pandas, loaded the results into MySQL, ran SQL analysis, and built a Streamlit dashboard to explore the findings.
 
 ## Tech stack
 Python, Pandas, NumPy, Requests, Regex, MySQL, SQLAlchemy, PyMySQL, Plotly, Streamlit
@@ -11,7 +11,7 @@ Python, Pandas, NumPy, Requests, Regex, MySQL, SQLAlchemy, PyMySQL, Plotly, Stre
 USGS API → Python extraction & cleaning → feature engineering → MySQL → SQL analysis → Streamlit dashboard
 
 ## Dataset
-Earthquake records for five years, pulled month by month from the USGS API. Original API fields are kept, plus a set of engineered columns (see docs/data-dictionary.md).
+Earthquake records for five years, pulled month by month from the USGS API. Original API fields are kept, plus a set of engineered columns (see notebooks).
 
 ## Data cleaning
 - Timestamp conversion
@@ -33,7 +33,7 @@ Covers strongest/deepest earthquakes, magnitude patterns, frequency over time, r
 ## Dashboard
 KPI summary, yearly/monthly trends, magnitude distribution, shallow vs. deep breakdown, global map, alert and tsunami analysis, reporting network breakdown, strongest/deepest event tables, and a raw data explorer.
 
-## Possible applications
+## Applications
 Earthquake risk monitoring, disaster planning input, infrastructure risk assessment, insurance risk modeling, general seismic research.
 
 ### Author
