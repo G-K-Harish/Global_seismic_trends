@@ -19,7 +19,6 @@ Earthquake records for five years, pulled month by month from the USGS API. Orig
 - Regex-based location/country extraction from the place field
 - Missing value handling
 - Numeric field cleanup
-- Duplicate checks
 
 ## Feature engineering
 country, year, month, day, day_of_week, hour, depth_category, mag_category
