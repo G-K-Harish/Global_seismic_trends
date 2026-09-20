@@ -32,6 +32,8 @@ Covers strongest/deepest earthquakes, magnitude patterns, frequency over time, r
 ## Dashboard
 KPI summary, yearly/monthly trends, magnitude distribution, shallow vs. deep breakdown, global map, alert and tsunami analysis, reporting network breakdown, strongest/deepest event tables, and a raw data explorer.
 
+<img width="1913" height="738" alt="Geographic_analysis" src="https://github.com/user-attachments/assets/7ee269af-4afb-43c4-9e97-57998ea83d2e" />
+
 ## Applications
 Earthquake risk monitoring, disaster planning input, infrastructure risk assessment, insurance risk modeling, general seismic research.
 
